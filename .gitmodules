@@ -1,3 +1,6 @@
 [submodule "Hargo-hugo-ecommerce-theme"]
 	path = Hargo-hugo-ecommerce-theme
 	url = https://github.com/themefisher/Hargo-hugo-ecommerce-theme
+[submodule "hargo"]
+	path = hargo
+	url = https://github.com/ngonimombeshora/hargo.git
