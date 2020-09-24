@@ -6,3 +6,7 @@
   HUGO_VERSION = "0.73.0"
   HUGO_THEME = "repo"
   HUGO_BASEURL = "/"
+
+[context.production.environment]
+  HUGO_VERSION = "0.69.2"
+  HUGO_ENV = "production"
