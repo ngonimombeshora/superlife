@@ -1,6 +1,6 @@
 ######################## new configuration ####################
 
-baseURL = "http://example.org/"
+baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "STC30 Superlife"
 theme="Hargo"
