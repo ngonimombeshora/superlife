@@ -1,6 +1,6 @@
 ######################## new configuration ####################
 
-baseURL = "https://example.org/"
+baseURL = "https://superlifezim.netlify.app/"
 languageCode = "en-us"
 title = "STC30 Superlife"
 theme="Hargo"
